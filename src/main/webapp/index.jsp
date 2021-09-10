@@ -140,7 +140,7 @@
                   <tr role="row" class="odd">
                     <td>Pod Hostname</td>
                     <td><%= System.getenv("HOSTNAME") %></td>
-		  </--
+		  <!--
                   </tr>
                   <tr role="row" class="even">
                     <td>Pod IP</td>
